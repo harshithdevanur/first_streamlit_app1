@@ -2,10 +2,11 @@ import streamlit
 
 streamlit.title('My moms\' new healthy diner')
 
-uppit
+streamlit.header('Mom\'s morning breakfast')
+streamlit.text('uppit')
 
-ricebatch
+streamlit.text('ricebatch')
 
-dosa
+streamlit.text('dosa')
 
-chapati
+streamlit.text('chapati')
