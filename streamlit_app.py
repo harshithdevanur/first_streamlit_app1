@@ -1,3 +1,8 @@
 import streamlit
 
-streamlit.title('My parents new healthy diner')
+streamlit.title('My moms\' new healthy diner')
+
+uppit
+ricebatch
+dosa
+chapati
