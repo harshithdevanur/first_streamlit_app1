@@ -10,3 +10,9 @@ streamlit.text('ricebatch')
 streamlit.text('dosa')
 
 streamlit.text('chapati')
+
+streamlit.header('Today Special Menu')
+
+streamlit.text('🍇 Grape juice')
+streamlit.text('🥝 Kiwi shake')
+streamlit.text('🍄 mushroom manchurian')
